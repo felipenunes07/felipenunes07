@@ -1,6 +1,5 @@
 import json
 import os
-import sys
 import urllib.request
 from collections import Counter
 from datetime import datetime, timezone
@@ -48,9 +47,9 @@ def api(path):
 
 def fmt_date(value):
     if not value:
-        return "sem data"
+        return "no date"
     dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
-    return dt.strftime("%d/%m/%Y")
+    return dt.strftime("%Y-%m-%d")
 
 
 def owned_repos():
@@ -86,7 +85,7 @@ def card_shell(width, height, title, body):
 """
 
 
-def github_stats_card(user, repos, languages):
+def github_stats_card(user, repos):
     total_stars = sum(repo.get("stargazers_count", 0) for repo in repos)
     total_forks = sum(repo.get("forks_count", 0) for repo in repos)
     recent = max((repo.get("updated_at") for repo in repos if repo.get("updated_at")), default="")
@@ -99,11 +98,11 @@ def github_stats_card(user, repos, languages):
     )
 
     rows = [
-        ("Repos publicos", str(user.get("public_repos", len(repos))), "#70a5fd"),
-        ("Stars recebidas", str(total_stars), GREEN),
+        ("Public repos", str(user.get("public_repos", len(repos))), "#70a5fd"),
+        ("Stars earned", str(total_stars), GREEN),
         ("Forks", str(total_forks), ACCENT),
-        ("Projetos ativos", str(active), "#ff9e64"),
-        ("Ultima atividade", fmt_date(recent), "#bb9af7"),
+        ("Active projects", str(active), "#ff9e64"),
+        ("Last activity", fmt_date(recent), "#bb9af7"),
     ]
 
     y = 68
@@ -166,7 +165,7 @@ def main():
     languages = repo_languages(repos)
 
     (OUTPUT_DIR / "github-stats.svg").write_text(
-        github_stats_card(user, repos, languages), encoding="utf-8"
+        github_stats_card(user, repos), encoding="utf-8"
     )
     (OUTPUT_DIR / "top-langs.svg").write_text(
         top_langs_card(languages), encoding="utf-8"

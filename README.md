@@ -3,7 +3,7 @@
 <h3 align="center">AI & Automation Engineer | BI & Data Analytics | GTM Growth | SaaS Builder</h3>
 
 <p align="center">
-  Transformo operações manuais em sistemas inteligentes: automações, agentes de IA, dashboards, CRMs e produtos web conectados a dados e crescimento.
+  I turn manual operations into intelligent systems: AI agents, automations, dashboards, CRMs, and web products connected to data and growth.
 </p>
 
 <p align="center">
@@ -11,67 +11,77 @@
   <a href="https://www.linkedin.com/in/felipearian/?locale=en" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/felipearian7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://wa.me/5511952960701" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://github.com/felipenunes07?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"></a>
+  <a href="https://github.com/felipenunes07?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
 ---
 
-### Perfil
+### Profile
 
-Sou um construtor de sistemas AI-native com cabeça de negócio: junto automação, dados, produto e growth para criar soluções que economizam tempo, reduzem erro operacional e aumentam velocidade comercial.
+I build AI-native systems with a business-first mindset. I combine automation, data, product thinking, and growth execution to create tools that save time, reduce operational errors, and increase commercial speed.
 
-- Crio agentes, pipelines e workflows com LLMs, OCR, scraping, APIs, n8n, Make, Claude, Cursor e Codex.
-- Estruturo dados para decisão: Power BI, SQL, Excel avançado, KPIs, dashboards, análise exploratória e indicadores de funil.
-- Levo automação para marketing, vendas, financeiro e customer success, com foco em conversão, churn, upsell e eficiência.
-- Construo interfaces e produtos SaaS com TypeScript, React, Node.js, Python, Supabase e bancos relacionais.
-- Gosto de pegar processo bagunçado, entender a regra de negócio e entregar um sistema simples de usar.
+- I design agents, pipelines, and LLM workflows with OCR, scraping, APIs, n8n, Make, Claude, Cursor, and Codex.
+- I structure data for better decisions using Power BI, SQL, advanced Excel, KPIs, dashboards, exploratory analysis, and funnel metrics.
+- I bring automation into marketing, sales, finance, and customer success with a focus on conversion, churn reduction, upsell, and efficiency.
+- I build SaaS products and interfaces with TypeScript, React, Node.js, Python, Supabase, and relational databases.
+- I like taking messy processes, understanding the business rules, and turning them into simple systems people can actually use.
 
 ### GitHub stats
 
 <div align="center">
   <a href="https://github.com/felipenunes07">
-    <img height="180em" width="420" src="https://raw.githubusercontent.com/felipenunes07/felipenunes07/output/github-stats.svg" alt="Estatisticas do GitHub">
-    <img height="180em" width="420" src="https://raw.githubusercontent.com/felipenunes07/felipenunes07/output/top-langs.svg" alt="Linguagens mais usadas">
+    <img height="180em" width="420" src="./assets/github-stats.svg" alt="GitHub stats">
+    <img height="180em" width="420" src="./assets/top-langs.svg" alt="Top languages">
   </a>
 </div>
 
-### Stack principal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,nextjs,html,css,postgres,supabase,azure,git,github" alt="Python, TypeScript, JavaScript, React, Node.js, Next.js, HTML, CSS, PostgreSQL, Supabase, Azure, Git e GitHub">
-</p>
+### AI & automation stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
   <img src="https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Workflows">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel">
+  <img src="https://img.shields.io/badge/OCR-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="OCR">
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
 
-### Áreas de foco
+### Core engineering stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,nextjs,html,css,postgres,supabase,azure,git,github" alt="Python, TypeScript, JavaScript, React, Node.js, Next.js, HTML, CSS, PostgreSQL, Supabase, Azure, Git and GitHub">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel">
+  <img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics">
+</p>
+
+### Focus areas
 
 ```txt
-AI & Automation   Agentes, LLMs, Cursor, Claude, Codex, n8n, Make, APIs
-Data & BI         Power BI, SQL, Excel avançado, KPIs, dashboards, EDA
-Growth & GTM      Funis, segmentação, campanhas, conversão, churn e upsell
-Web & SaaS        React, TypeScript, Node.js, Supabase, interfaces e CRMs
+AI & Automation   Agents, LLMs, Cursor, Claude, Codex, n8n, Make, APIs
+Data & BI         Power BI, SQL, advanced Excel, KPIs, dashboards, EDA
+Growth & GTM      Funnels, segmentation, campaigns, conversion, churn, upsell
+Web & SaaS        React, TypeScript, Node.js, Supabase, interfaces, and CRMs
 ```
 
-### Projetos em destaque
+### Featured projects
 
-| Projeto | Area | Por que importa |
+| Project | Area | Why it matters |
 | --- | --- | --- |
-| [CRM-XP](https://github.com/felipenunes07/CRM-XP) | SaaS / CRM / TypeScript | Sistema para organizar operação comercial, funil e relacionamento com clientes. |
-| [wechat-ocr-auto](https://github.com/felipenunes07/wechat-ocr-auto) | Python / OCR / Automação | Automatiza leitura e processamento de informações no WeChat, reduzindo trabalho manual. |
-| [career-ops](https://github.com/felipenunes07/career-ops) | IA / Claude Code / Operações | Sistema AI-powered para busca de vagas, geração de PDF, modos de trabalho e processamento em lote. |
-| [orcamento-rapido-catalogo-xp](https://github.com/felipenunes07/orcamento-rapido-catalogo-xp) | TypeScript / Produto / Vendas | Ferramenta para acelerar catálogo e orçamentos, conectando produto com operação comercial. |
-| [conversor_olist_xp_main](https://github.com/felipenunes07/conversor_olist_xp_main) | Python / Dados / Automação | Conversão e tratamento de dados para fluxo operacional e e-commerce. |
-| [Power-Bi](https://github.com/felipenunes07/Power-Bi) | BI / Dashboards / Analytics | Base de estudos e entregas voltadas a indicadores, visualização e tomada de decisão. |
-| [Data-Science](https://github.com/felipenunes07/Data-Science) | Data Science / Notebooks | Experimentos com análise, estatística e modelos para extrair insight de dados. |
+| [CRM-XP](https://github.com/felipenunes07/CRM-XP) | SaaS / CRM / TypeScript | A system for organizing commercial operations, sales funnels, and customer relationships. |
+| [wechat-ocr-auto](https://github.com/felipenunes07/wechat-ocr-auto) | Python / OCR / Automation | Automates reading and processing information from WeChat, reducing manual work. |
+| [career-ops](https://github.com/felipenunes07/career-ops) | AI / Claude Code / Operations | An AI-powered job search system with PDF generation, work modes, and batch processing. |
+| [orcamento-rapido-catalogo-xp](https://github.com/felipenunes07/orcamento-rapido-catalogo-xp) | TypeScript / Product / Sales | A tool to speed up catalogs and quotes, connecting product workflows with sales operations. |
+| [conversor_olist_xp_main](https://github.com/felipenunes07/conversor_olist_xp_main) | Python / Data / Automation | Data conversion and treatment for operational and e-commerce workflows. |
+| [Power-Bi](https://github.com/felipenunes07/Power-Bi) | BI / Dashboards / Analytics | Business intelligence work focused on indicators, visualization, and decision-making. |
+| [Data-Science](https://github.com/felipenunes07/Data-Science) | Data Science / Notebooks | Experiments with analysis, statistics, and models to extract insights from data. |
 
 ---
 

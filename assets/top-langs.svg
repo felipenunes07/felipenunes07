@@ -1,0 +1,25 @@
+<svg width="420" height="180" viewBox="0 0 420 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Top Languages</title>
+  <rect x="0.5" y="0.5" width="419" height="179" rx="4.5" fill="#1a1b27" stroke="#2f334d"/>
+  <text x="24" y="34" fill="#70a5fd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">Top Languages</text>
+  <rect x="24" y="54" width="186" height="8" fill="#3572A5" rx="2"/>
+  <rect x="210" y="54" width="62" height="8" fill="#3178c6" rx="2"/>
+  <rect x="272" y="54" width="62" height="8" fill="#e34c26" rx="2"/>
+  <rect x="334" y="54" width="41" height="8" fill="#DA5B0B" rx="2"/>
+  <rect x="375" y="54" width="20" height="8" fill="#f7df1e" rx="2"/>
+  <circle cx="28" cy="86" r="4" fill="#3572A5"/>
+  <text x="40" y="91" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Python</text>
+  <text x="166" y="91" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">50.0%</text>
+  <circle cx="224" cy="86" r="4" fill="#3178c6"/>
+  <text x="236" y="91" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">TypeScript</text>
+  <text x="362" y="91" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">16.7%</text>
+  <circle cx="28" cy="111" r="4" fill="#e34c26"/>
+  <text x="40" y="116" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">HTML</text>
+  <text x="166" y="116" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">16.7%</text>
+  <circle cx="224" cy="111" r="4" fill="#DA5B0B"/>
+  <text x="236" y="116" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Jupyter Notebook</text>
+  <text x="362" y="116" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">11.1%</text>
+  <circle cx="28" cy="136" r="4" fill="#f7df1e"/>
+  <text x="40" y="141" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">JavaScript</text>
+  <text x="166" y="141" fill="#a9b1d6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">5.6%</text>
+</svg>
