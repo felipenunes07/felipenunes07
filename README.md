@@ -3,41 +3,37 @@
 <h3 align="center">AI & Automation Engineer | BI & Data Analytics | GTM Growth | SaaS Builder</h3>
 
 <p align="center">
-  Crio sistemas AI-native, automacoes, dashboards e produtos web que reduzem trabalho manual, organizam dados e ajudam operacoes a vender mais.
+  Transformo operações manuais em sistemas inteligentes: automações, agentes de IA, dashboards, CRMs e produtos web conectados a dados e crescimento.
 </p>
 
 <p align="center">
   <a href="mailto:felipearian10197@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/felipearian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/felipenunes10197" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/felipearian/?locale=en" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/felipearian7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://wa.me/5511952960701" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://github.com/felipenunes07?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"></a>
 </p>
 
 ---
 
-### O que eu construo
+### Perfil
 
-- Agentes de IA, workflows com LLMs e automacoes usando APIs, OCR, scraping, n8n e Make.
-- Dashboards, KPIs e analises para marketing, vendas, financeiro e customer success.
-- Sistemas de Growth/GTM para funil, segmentacao, conversao, upsell e reducao de churn.
-- Produtos web e SaaS com TypeScript, JavaScript, React, Node.js e bancos modernos.
-- Rotinas que economizam horas de trabalho manual e transformam processo solto em sistema.
+Sou um construtor de sistemas AI-native com cabeça de negócio: junto automação, dados, produto e growth para criar soluções que economizam tempo, reduzem erro operacional e aumentam velocidade comercial.
 
-### GitHub em cards
+- Crio agentes, pipelines e workflows com LLMs, OCR, scraping, APIs, n8n, Make, Claude, Cursor e Codex.
+- Estruturo dados para decisão: Power BI, SQL, Excel avançado, KPIs, dashboards, análise exploratória e indicadores de funil.
+- Levo automação para marketing, vendas, financeiro e customer success, com foco em conversão, churn, upsell e eficiência.
+- Construo interfaces e produtos SaaS com TypeScript, React, Node.js, Python, Supabase e bancos relacionais.
+- Gosto de pegar processo bagunçado, entender a regra de negócio e entregar um sistema simples de usar.
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenunes07&theme=tokyonight" alt="Resumo do GitHub">
-</p>
+### GitHub stats
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipenunes07&theme=tokyonight" alt="Repositorios por linguagem">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipenunes07&theme=tokyonight" alt="Commits por linguagem">
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipenunes07&theme=tokyonight" alt="Estatisticas do GitHub">
-  <img width="49%" src="https://streak-stats.demolab.com?user=felipenunes07&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequencia de contribuicoes">
-</p>
+<div align="center">
+  <a href="https://github.com/felipenunes07">
+    <img height="180em" width="420" src="https://raw.githubusercontent.com/felipenunes07/felipenunes07/output/github-stats.svg" alt="Estatisticas do GitHub">
+    <img height="180em" width="420" src="https://raw.githubusercontent.com/felipenunes07/felipenunes07/output/top-langs.svg" alt="Linguagens mais usadas">
+  </a>
+</div>
 
 ### Stack principal
 
@@ -56,24 +52,26 @@
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
 
-### Areas de foco
+### Áreas de foco
 
 ```txt
 AI & Automation   Agentes, LLMs, Cursor, Claude, Codex, n8n, Make, APIs
-Data & BI         Power BI, SQL, Excel avancado, KPIs, dashboards, EDA
-Growth & GTM      Funis, segmentacao, campanhas, conversao, churn e upsell
+Data & BI         Power BI, SQL, Excel avançado, KPIs, dashboards, EDA
+Growth & GTM      Funis, segmentação, campanhas, conversão, churn e upsell
 Web & SaaS        React, TypeScript, Node.js, Supabase, interfaces e CRMs
 ```
 
-### Projetos recentes
+### Projetos em destaque
 
-| Projeto | Foco |
-| --- | --- |
-| [CRM-XP](https://github.com/felipenunes07/CRM-XP) | CRM em TypeScript para operacao comercial |
-| [wechat-ocr-auto](https://github.com/felipenunes07/wechat-ocr-auto) | Automacao de OCR no WeChat |
-| [OCR-wechat-3.9.12.51](https://github.com/felipenunes07/OCR-wechat-3.9.12.51) | Experimentos com OCR, dados e automacao |
-| [career-ops](https://github.com/felipenunes07/career-ops) | Sistema AI-native para busca de vagas e operacao de carreira |
-| [conversor_olist_xp_main](https://github.com/felipenunes07/conversor_olist_xp_main) | Automacao e conversao de dados com Python |
+| Projeto | Area | Por que importa |
+| --- | --- | --- |
+| [CRM-XP](https://github.com/felipenunes07/CRM-XP) | SaaS / CRM / TypeScript | Sistema para organizar operação comercial, funil e relacionamento com clientes. |
+| [wechat-ocr-auto](https://github.com/felipenunes07/wechat-ocr-auto) | Python / OCR / Automação | Automatiza leitura e processamento de informações no WeChat, reduzindo trabalho manual. |
+| [career-ops](https://github.com/felipenunes07/career-ops) | IA / Claude Code / Operações | Sistema AI-powered para busca de vagas, geração de PDF, modos de trabalho e processamento em lote. |
+| [orcamento-rapido-catalogo-xp](https://github.com/felipenunes07/orcamento-rapido-catalogo-xp) | TypeScript / Produto / Vendas | Ferramenta para acelerar catálogo e orçamentos, conectando produto com operação comercial. |
+| [conversor_olist_xp_main](https://github.com/felipenunes07/conversor_olist_xp_main) | Python / Dados / Automação | Conversão e tratamento de dados para fluxo operacional e e-commerce. |
+| [Power-Bi](https://github.com/felipenunes07/Power-Bi) | BI / Dashboards / Analytics | Base de estudos e entregas voltadas a indicadores, visualização e tomada de decisão. |
+| [Data-Science](https://github.com/felipenunes07/Data-Science) | Data Science / Notebooks | Experimentos com análise, estatística e modelos para extrair insight de dados. |
 
 ---
 
