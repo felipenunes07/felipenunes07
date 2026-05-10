@@ -1,6 +1,10 @@
 <h1 align="center">Felipe Arian</h1>
 
-<h3 align="center">AI & Automation Engineer | BI & Data Analytics | GTM Growth | SaaS Builder</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_&_Automation_Engineer-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Automation Engineer">
+  <img src="https://img.shields.io/badge/BI_&_Data_Analytics-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="BI & Data Analytics">
+  <img src="https://img.shields.io/badge/GTM_Growth-16A34A?style=for-the-badge&logo=rocket&logoColor=white" alt="GTM Growth">
+</p>
 
 <p align="center">
   I turn manual operations into intelligent systems: AI agents, automations, dashboards, CRMs, and web products connected to data and growth.
@@ -16,17 +20,7 @@
 
 ---
 
-### Profile
-
-I build AI-native systems with a business-first mindset. I combine automation, data, product thinking, and growth execution to create tools that save time, reduce operational errors, and increase commercial speed.
-
-- I design agents, pipelines, and LLM workflows with OCR, scraping, APIs, n8n, Make, Claude, Cursor, and Codex.
-- I structure data for better decisions using Power BI, SQL, advanced Excel, KPIs, dashboards, exploratory analysis, and funnel metrics.
-- I bring automation into marketing, sales, finance, and customer success with a focus on conversion, churn reduction, upsell, and efficiency.
-- I build SaaS products and interfaces with TypeScript, React, Node.js, Python, Supabase, and relational databases.
-- I like taking messy processes, understanding the business rules, and turning them into simple systems people can actually use.
-
-### GitHub stats
+### Stats
 
 <div align="center">
   <a href="https://github.com/felipenunes07">
@@ -35,7 +29,19 @@ I build AI-native systems with a business-first mindset. I combine automation, d
   </a>
 </div>
 
-### AI & automation stack
+---
+
+### About me
+
+I build AI-native systems with a business-first mindset, combining automation, data, product thinking, and growth execution to create tools that save time, reduce operational errors, and increase commercial speed.
+
+- I design AI agents, pipelines, and LLM workflows with OCR, scraping, APIs, n8n, Make, Claude, Cursor, and Codex.
+- I structure data for better decisions using Power BI, SQL, advanced Excel, KPIs, dashboards, exploratory analysis, and funnel metrics.
+- I bring automation into marketing, sales, finance, and customer success with a focus on conversion, churn reduction, upsell, and efficiency.
+- I build SaaS products and interfaces with TypeScript, React, Node.js, Python, Supabase, and relational databases.
+- I like taking messy processes, understanding the business rules, and turning them into simple systems people can actually use.
+
+### AI, agents & automation
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
@@ -49,7 +55,7 @@ I build AI-native systems with a business-first mindset. I combine automation, d
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
 
-### Core engineering stack
+### Languages & tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,nextjs,html,css,postgres,supabase,azure,git,github" alt="Python, TypeScript, JavaScript, React, Node.js, Next.js, HTML, CSS, PostgreSQL, Supabase, Azure, Git and GitHub">
@@ -61,6 +67,8 @@ I build AI-native systems with a business-first mindset. I combine automation, d
   <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel">
   <img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics">
 </p>
+
+<hr>
 
 ### Focus areas
 
@@ -86,5 +94,5 @@ Web & SaaS        React, TypeScript, Node.js, Supabase, interfaces, and CRMs
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/felipenunes07/felipenunes07/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/felipenunes07/felipenunes07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
