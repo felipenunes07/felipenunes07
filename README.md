@@ -1,27 +1,57 @@
-### Hello World I´m Felipe Nunes 
+<h1 align="center">Oi, eu sou o Felipe Nunes</h1>
 
-<div align="center">
-  <a href="https://github.com/felipenunes07">
-  <img height="180em" width="420"  src="https://github-readme-stats.vercel.app/api?username=felipenunes07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenunes07&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
-  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://img.icons8.com/color/344/linux--v1.png">
-  
-  
+<p align="center">
+  Desenvolvedor focado em automacao, interfaces web e solucoes praticas com Python, TypeScript e JavaScript.
+</p>
 
- ##
- 
- <div> 
+<p align="center">
+  <a href="mailto:felipearian10197@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/felipenunes10197" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/felipenunes07?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"></a>
+</p>
 
-  <a href="https://instagram.com/felipenunes10197" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:felipearian10197@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-   ![Snake animation](https://github.com/felipenunes07/felipenunes07/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+### Sobre mim
+
+- Gosto de transformar ideias em ferramentas que economizam tempo.
+- Trabalho com automacoes, OCR, dashboards, CRMs e aplicacoes web.
+- Estou sempre testando novas formas de unir IA, produtividade e desenvolvimento.
+- Nerd por natureza, aqui para construir, aprender e compartilhar conteudo.
+
+### Stack
+
+<p>
+  <img alt="TypeScript" title="TypeScript" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" title="JavaScript" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Python" title="Python" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="React" title="React" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Node.js" title="Node.js" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="HTML5" title="HTML5" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" title="CSS3" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Linux" title="Linux" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</p>
+
+### Projetos recentes
+
+| Projeto | Foco |
+| --- | --- |
+| [CRM-XP](https://github.com/felipenunes07/CRM-XP) | CRM em TypeScript |
+| [wechat-ocr-auto](https://github.com/felipenunes07/wechat-ocr-auto) | Automacao de OCR no WeChat |
+| [OCR-wechat-3.9.12.51](https://github.com/felipenunes07/OCR-wechat-3.9.12.51) | Experimentos com OCR e automacao |
+| [career-ops](https://github.com/felipenunes07/career-ops) | Sistema com IA para busca de vagas |
+
+### Onde estou colocando energia
+
+```txt
+Automacao      Python, OCR, integracoes e rotinas inteligentes
+Frontend       React, TypeScript, UI simples e direta
+Produtividade  IA aplicada a processos reais
+Dados          Power BI, dashboards e organizacao de informacao
+```
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/felipenunes07/felipenunes07/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
