@@ -94,5 +94,5 @@ Web & SaaS        React, TypeScript, Node.js, Supabase, interfaces, and CRMs
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/felipenunes07/felipenunes07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="https://github.com/felipenunes07/felipenunes07/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation">
 </p>
