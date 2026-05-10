@@ -35,7 +35,7 @@
 
 I build AI-native systems with a business-first mindset, combining automation, data, product thinking, and growth execution to create tools that save time, reduce operational errors, and increase commercial speed.
 
-- I design AI agents, pipelines, and LLM workflows with OCR, scraping, APIs, n8n, Make, Claude, Cursor, and Codex.
+- I design AI agents, pipelines, and LLM workflows with OCR, scraping, APIs, n8n, Claude, Cursor, and Codex.
 - I structure data for better decisions using Power BI, SQL, advanced Excel, KPIs, dashboards, exploratory analysis, and funnel metrics.
 - I bring automation into marketing, sales, finance, and customer success with a focus on conversion, churn reduction, upsell, and efficiency.
 - I build SaaS products and interfaces with TypeScript, React, Node.js, Python, Supabase, and relational databases.
@@ -50,7 +50,6 @@ I build AI-native systems with a business-first mindset, combining automation, d
   <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
   <img src="https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Workflows">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make">
   <img src="https://img.shields.io/badge/OCR-0F766E?style=for-the-badge&logo=python&logoColor=white" alt="OCR">
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
@@ -73,7 +72,7 @@ I build AI-native systems with a business-first mindset, combining automation, d
 ### Focus areas
 
 ```txt
-AI & Automation   Agents, LLMs, Cursor, Claude, Codex, n8n, Make, APIs
+AI & Automation   Agents, LLMs, Cursor, Claude, Codex, n8n, APIs
 Data & BI         Power BI, SQL, advanced Excel, KPIs, dashboards, EDA
 Growth & GTM      Funnels, segmentation, campaigns, conversion, churn, upsell
 Web & SaaS        React, TypeScript, Node.js, Supabase, interfaces, and CRMs
